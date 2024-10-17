@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
 
-- 🔭 I’m currently working on [Tidal-io](https://www.tidal-io.com/)
+- 🔭 currently I'm developing [Tidal-io](https://www.tidal-io.com/)
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **PHP & WordPress** 
 
-- 👨‍💻 All of my projects are available at [troopl.com/louiswhittle-adams](troopl.com/louiswhittle-adams)
+- 📖 Check out my portfolio at [troopl.com/louiswhittle-adams](troopl.com/louiswhittle-adams)
 
 - 💬 Ask me about **Ruby on Rails**
 
-- 📫 How to reach me **louiswhittle7d1@gmail.com**
+- 📫 reach me at **louiswhittle7d1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
