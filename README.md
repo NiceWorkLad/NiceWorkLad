@@ -11,5 +11,3 @@
 
 - 📫 reach me at **louiswhittle7d1@gmail.com** & <a href="https://www.linkedin.com/in/louis-whittle-adams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis whittle-adams" height="30" width="40" /></a>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niceworklad&show_icons=true&locale=en" alt="niceworklad" /></p>
