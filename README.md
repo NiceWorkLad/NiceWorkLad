@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
-<h3 align="center">A passionate full-stack developer from the UK</h3>
+<h3 align="center">A Rails and Wordpress developer from the UK</h3>
+
+<h1> Tools I use alot</h2>
+
+<p> Rails | PHP | RUBY | GIT 
 
 <p>Currently I am volunteering at One Community foundation to help improve their current website's accessibility and efficiency</p>
 <a href="https://one-community.org.uk/big_impact_moor_local/"> <img src="https://one-community.org.uk/wp-content/uploads/2022/04/highest-res-logo-1024x155.png" alt="one community" height="60" width="400" align="center"></a>
