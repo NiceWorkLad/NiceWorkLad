@@ -27,5 +27,5 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="40" height="40"/></a>
 
 
-- 📫 reach me at **louiswhittle7d1@gmail.com** & <a href="https://www.linkedin.com/in/louis-whittle-adams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis whittle-adams" height="30" width="40" /></a>
+- 📫 reach out to me **louiswhittle7d1@gmail.com** & <a href="https://www.linkedin.com/in/louis-whittle-adams/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="louis whittle-adams" height="30" width="40" /></a>
 
