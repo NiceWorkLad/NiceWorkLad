@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A Rails and Wordpress developer from the UK</h3>
 
-<h1> Tools I use alot</h2>
-
 <p  align="center"> Rails | PHP | RUBY | GIT </p>
 
 <p>Currently I am volunteering at One Community foundation to help improve their current website's accessibility and efficiency</p>
